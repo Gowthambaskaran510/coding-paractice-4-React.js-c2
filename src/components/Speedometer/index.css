@@ -1,0 +1,56 @@
+/* Write your CSS here */
+.bg-container {
+  background-color: #07080c;
+  background-size: cover;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.main-heading {
+  color: #ffffff;
+  font-size: 40px;
+  font-weight: bold;
+  font-style: italic;
+}
+
+.image {
+  width: 750px;
+}
+
+.heading {
+  color: #ffffff;
+  font-size: 30px;
+  font-weight: bold;
+}
+
+.paragraph {
+  color: #cbd5e1;
+  font-size: 20px;
+}
+
+.button1 {
+  background-color: #0b69ff;
+  color: #ffffff;
+  padding: 12px;
+  border-radius: 10px;
+  cursor: pointer;
+  outline: none;
+  border: none;
+  font-size: 12px;
+  margin-right: 5px;
+}
+
+.button2 {
+  background-color: transparent;
+  color: #94a3b8;
+  padding: 12px;
+  border-radius: 10px;
+  cursor: pointer;
+  outline: none;
+  border: solid 1px #94a3b8;
+  font-size: 12px;
+  margin-left: 5px;
+}
